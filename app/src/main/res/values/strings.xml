@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">MisContactos</string>
+    <string name="nombre">Rodrigo Gabin</string>
+    <string name="telefono">091353111</string>
+    <string name="email">rgabin@gmail.com</string>
+    <string name="pnombre">Nombre</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+
+</resources>
